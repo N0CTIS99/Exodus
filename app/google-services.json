@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "739508125572",
+    "firebase_url": "https://exodus491-b4328.firebaseio.com",
+    "project_id": "exodus491-b4328",
+    "storage_bucket": "exodus491-b4328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739508125572:android:e73f7bd8b0ca7bd479e7d1",
+        "android_client_info": {
+          "package_name": "com.example.exodus491"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739508125572-sg5tlvl9gn1cvt2ru6j68p7rm3l4jii7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.exodus491",
+            "certificate_hash": "26533caceed923d4d22425974f364985eb0e61bb"
+          }
+        },
+        {
+          "client_id": "739508125572-26k82eqp8o0u7jtdnbijab0vc104aoms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDakbZnkVpFfcp909hk5QsQZgjdWG4RHdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739508125572-26k82eqp8o0u7jtdnbijab0vc104aoms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
